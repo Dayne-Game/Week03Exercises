@@ -1,0 +1,8 @@
+/Users/daynegame/Desktop/Week03Exercises/bin/Debug/netcoreapp1.1/Week03Exercises.deps.json
+/Users/daynegame/Desktop/Week03Exercises/bin/Debug/netcoreapp1.1/Week03Exercises.runtimeconfig.json
+/Users/daynegame/Desktop/Week03Exercises/bin/Debug/netcoreapp1.1/Week03Exercises.runtimeconfig.dev.json
+/Users/daynegame/Desktop/Week03Exercises/bin/Debug/netcoreapp1.1/Week03Exercises.dll
+/Users/daynegame/Desktop/Week03Exercises/bin/Debug/netcoreapp1.1/Week03Exercises.pdb
+/Users/daynegame/Desktop/Week03Exercises/obj/Debug/netcoreapp1.1/Week03Exercises.AssemblyInfo.cs
+/Users/daynegame/Desktop/Week03Exercises/obj/Debug/netcoreapp1.1/Week03Exercises.dll
+/Users/daynegame/Desktop/Week03Exercises/obj/Debug/netcoreapp1.1/Week03Exercises.pdb
